@@ -7,3 +7,6 @@
 2. At each move, the game will indicate whose turn (Player A or Player B) it is. The game will have no draw and endless unless a player makes a mistake and the other take it. There will be only two results:
    * Winner: Player A
    * Winner: Player B
+
+# How to play tutorial
+https://youtu.be/GPkXxFAD4Pc
